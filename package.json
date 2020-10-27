@@ -1,0 +1,30 @@
+{
+  "name": "webdegin",
+  "version": "1.0.0",
+  "description": "this is project",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somendrapal/school.git"
+  },
+  "author": "Somendra pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somendrapal/school/issues"
+  },
+  "homepage": "https://github.com/somendrapal/school#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "lightbox2": "^2.11.3",
+    "popper.js": "^1.12.9"
+  }
+}
